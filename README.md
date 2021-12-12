@@ -1,1 +1,1 @@
-<h2>Hi there, I'm Jose Acosta<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallylip.tumblr.com%2Fpost%2F177764156942%2Fcan-you-explain-me-the-dance-meme-of-dmcv&psig=AOvVaw3Uu8ltstjgWx2MConz4RZc&ust=1639354137931000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDbu5783PQCFQAAAAAdAAAAABAD" width="35"></h2>
+<h2>Hi there, I'm Jose Acosta<img src="https://64.media.tumblr.com/c29cd9bf7276ca70866927c0aece88fa/tumblr_inline_pek84tR3Fp1tynx5s_1280.gifv" width="35"></h2>
