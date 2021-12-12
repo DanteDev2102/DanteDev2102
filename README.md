@@ -1,1 +1,1 @@
-<h2>Hi there, I'm Jose Acosta<img src="https://media.giphy.com/media/EzNwZBbRMFW01B4Cvu/giphy.gif" width="35"></h2>
+<h2>Hi there, I'm Jose Acosta<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallylip.tumblr.com%2Fpost%2F177764156942%2Fcan-you-explain-me-the-dance-meme-of-dmcv&psig=AOvVaw3Uu8ltstjgWx2MConz4RZc&ust=1639354137931000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDbu5783PQCFQAAAAAdAAAAABAD" width="35"></h2>
