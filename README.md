@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Acosta</h1>
 <h3 align="center">A passionate software developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Selenium with python and Jest**
+- 🌱 I’m currently learning **Go and micro-services**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
