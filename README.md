@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Acosta</h1>
-<h3 align="center">A passionate software developer from Venezuela</h3>
+<h3 align="center">Software developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **Go and micro-services**
 
