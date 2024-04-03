@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Acosta</h1>
 <h3 align="center">Software developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Go and micro-services**
+- 🌱 I’m currently work **odoo and micro-services with go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
